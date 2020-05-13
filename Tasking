@@ -1,0 +1,10 @@
+Given product is approaching SellIn date, when selling product, product's quality is keeping dropping.
+Given product is beyond SellIn date, when selling product, product's quality will drop with twice speed.
+Given product's quality is rising, when selling product, product's quality will never more than 50.
+Given product's quality is dropping, when selling product, product's quality will never below than 0.
+Given keep Aged Brie longer, when selling Aged Brie, product's quality will rise further.
+Given Sulfuras is a legend product, when selling Sulfuras, product's quality will keep as same.
+Given reaching the SellIn date of Backstage pass, when selling Backstage pass, product's quality will rise.
+Given reaching the SellIn date less than 10 days, when selling Backstage pass, product's quality will rise 2 point per day.
+Given reaching the SellIn date less than 5 days, when selling Backstage pass, product's quality will rise 3 point per day.
+Given passed SellIn date, when selling Backstage pass, product's quality will drop to 0 directly.
